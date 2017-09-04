@@ -1,10 +1,14 @@
-target 'JFTest' do
+target 'XJFishing' do
+   use_frameworks!
+   inhibit_all_warnings!
 
-pod 'YYKit',                    '~> 1.0.9'
-pod 'ReactiveObjC',             '~> 1.0.1'
-pod 'SDWebImage',               '~> 3.7'
-pod 'AFNetworking',             '~> 3.1.0'
-pod 'Masonry',                  '~> 1.0.2'
-pod 'MJRefresh',                '~> 3.1.12'
-
+	pod 'Masonry', '~> 1.0.2'
+    pod 'AFNetworking', '~> 2.6.0'
+    pod 'Toast', '~> 3.0'
+    pod 'SpinKit', '~> 1.2.0'
+    pod 'MJRefresh', '~> 3.1.12'
+	pod 'SDWebImage', '~> 4.0.0-beta2'	
+	pod 'YYModel', '~> 1.0.4'
+  
+  
 end

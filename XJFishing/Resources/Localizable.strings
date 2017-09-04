@@ -1,0 +1,384 @@
+/* 
+ Localizable.strings
+ sampleProject
+ 
+ Created by Ruozi on 7/30/16.
+ Copyright © 2016 Ruozi. All rights reserved.
+ */
+
+// Prepare
+
+// Illegal
+"Prepare_Illegal_Alert_Title" = "Solemn statement";
+"Prepare_Illegal_Alert_Message" = "There is evidence to suggest that you have used some illegal tricks to get coins. And we have authority to lock your account.";
+"Prepare_Illegal_Alert_CancelButton" = "OK";
+"Prepare_Illegal_Alert_ConfirmButton" = "Appeal";
+"Prepare_Appeal_Mail_Subject" = "Appeal against locked account";
+
+"Prepare_Retry_Button_Text" = "Tap to retry";
+
+// Signup Limit
+"Prepare_SignupLimit_Alert_Title" = "Attention";
+"Prepare_SignupLimit_Alert_Message" = "This device is out of sign up limit.";
+"Prepare_SignupLimit_Alert_CancelButton" = "Cancel";
+"Prepare_SignupLimit_Alert_ConfirmButton" = "OK";
+
+// Login Error
+"Prepare_LoginError_Alert_Title" = "Cannot login";
+"Prepare_LoginError_Alert_Message" = "Please contact us to resolve this issue.";
+"Prepare_LoginError_Alert_CancelButton" = "Try again";
+"Prepare_LoginError_Alert_ConfirmButton" = "Ask for help";
+"Prepare_LoginError_Mail_Subject" = "Login failure";
+"Prepare_LoginError_Mail_Addition" = "ErrorCode: %ld\nErrorDescription: %@";
+
+// Home
+
+"Home_Redeem_Button_Title" = "PODIUM";
+"Home_Offer_Button_Title" = "CHECK";
+"Home_Carousel_Slot_Title" = "Slots Mania";
+"Home_Carousel_LuckySpin_Title" = "Lucky Spin";
+"Home_Carousel_FreeLuckySpin_Title" = "Free Spin";
+"Home_Carousel_QuickHit_Title" = "Fire Finger";
+"Home_Carousel_Video_Title" = "Ad Video";
+"Home_Carousel_FBNativeAd_Title" = "Loading FackBook Ads";
+"Home_Carousel_AppWall_Title" = "Editor's choice";
+"Home_Carousel_AddGame_Title" = "Add New Games";
+"Home_Carousel_GamePoll_Title" = "Game Poll";
+"Home_Carousel_Fishing_Title" = "Happy Fishing";
+"Home_Carousel_BattleFish_Title" = "Fishing Battle";
+"Home_Carousel_Puzzle_Title" = "Puzzle";
+"Home_Carousel_YellShooter_Title" = "Yell Shooter";
+"Home_Carousel_Farming_Title" = "Farmers' Market";
+"Home_Carousel_Scratch_Title"               = "Scratch";
+"Home_Carousel_MahjongScratch_Title"        = "Ticket x%@";
+"Home_Carousel_DiceScratch_Title"           = "Ticket x%@";
+"Home_Carousel_BaskerballScratch_Title"     = "Ticket x%@";
+"Home_Carousel_GoldRushScratch_Title"       = "Ticket x%@";
+"Home_Carousel_VegasRouletteScratch_Title"  = "Ticket x%@";
+"Home_Carousel_VegasDiceScratch_Title"      = "Ticket x%@";
+"Home_Carousel_VegasSlotsScratch_Title"     = "Ticket x%@";
+
+"Home_Carousel_PyramidPharaohScratch_Title"  = "Ticket x%@";
+"Home_Carousel_PyramidTreasureScratch_Title"      = "Ticket x%@";
+"Home_Carousel_PyramidEscapeScratch_Title"     = "Ticket x%@";
+
+
+
+
+
+"HOME_Coins_Progress_Button_Title" = "GO!";
+
+"Home_Center_Satellite_Button_Text_Friends" = "Friends";
+"Home_Center_Satellite_Button_Text_Redeem" = "Redeem";
+"Home_Center_Satellite_Button_Text_Surprise" = "Surprise";
+"Home_Center_Satellite_Button_Text_AppWall" = "Apps";
+"Home_Center_Satellite_Button_Text_Special" = "Special";
+"Game_Ad_Not_Ready" = "Game is not ready";
+
+// Chest Button
+"ChestButton_Title_Free" = "Free Chest";
+"ChestButton_Title_Gift" = "Gift Chest";
+"ChestButton_Title_Video" = "Video Chest";
+
+"ChestButton_subTitle_OpenHint" = "Tap to Open!!!";
+"ChestButton_subTitle_CDHint" = "Next in";
+
+//Guide
+
+"Guide_Title" = "Follow the steps";
+"Guide_Button_Title" = "GO!";
+
+//Segment
+"Segment_Title_Balance" = "Balance";
+"Segment_Title_Order" = "My Gifts";
+
+// Balance
+"Balance_Header_Time" = "Time";
+"Balance_Header_From" = "From";
+"Balance_Header_Change" = "Change";
+"Balance_Header_Amount" = "Amount";
+
+"Balance_From_Register" = "Registering";
+
+// WebView
+"WebView_Fail_To_Load" = "Fail to load, tap to retry.";
+
+//Order
+"Order_Header_Time" = "Time";
+"Order_Header_Gift" = "Gift";
+"Order_Header_Status" = "Status";
+
+"Order_Status_Ongoing" = "On-going.";
+"Order_Status_Complete" = "Complete.";
+"Order_Status_Cancel" = "Cancel.";
+"Order_Status_Pending" = "Pending.";
+
+//News
+"News_Balance_Content" = "You've got %@ coins from %@.";
+"News_Order_Content" = "The status of your Gift '%@' changed to %@";
+"News_Order_Remind_Cancel" = "Why?";
+
+"News_Order_Complete_AppendString" = " It will be sent in 1~2 business days.";
+"News_Order_Complete_Append_ClaimCode" = " Your claim code is %@. Also you can tap to check details.";
+
+//Setting
+"Setting_Header_Notification_Title" = "NOTIFICATION";
+"Setting_Header_Voice_Title"        = "VOICE";
+"Setting_Header_General_Title"      = "GENERAL";
+"Setting_Content_Localpush"         = "Daily Reward Reminder";
+"Setting_Content_BGM"               = "Background Music";
+"Setting_Content_Feedback"          = "Feedback";
+"Setting_Content_Review"            = "Rate Us 5 Stars";
+"Setting_Content_Guide"             = "How to Play";
+"Setting_Switch_On_Toast"           = "We will inform you when it's ready.";
+"Setting_Switch_Off_Toast"          = "You have switched off Free Chest Reminder.";
+"Setting_ContactUs_Title"           = "Report Issues";
+"Setting_ContactUs_EmailUs"         = "Email Us";
+"Setting_ContactUs_Cancel"          = "Cancel";
+"Setting_Push_Title"                = "Please enable push notification via Settings.";
+
+//MarqueeView
+"MarqueeView_Default_Remind" = "Loading...";
+
+//QuickHit
+"QuickHit_Start_Button_Text" = "START";
+"QuickHit_Tap_Button_Text" = "Tap";
+
+//Slot
+"Slot_Start_Button_Title" = "Go";
+
+//LuckySpin
+"LuckySpin_Start_Button_Default_title" = "SPIN";
+"LuckySpin_Bottom_NoEnoughCoins" = "No enough coins to play spin";
+"LuckySpin_Bottom_CoolDown" = "This game is cooling down";
+
+//GameController
+"GameController_Cooldown_Need" = "%@ seconds needed to cool down";
+
+//Redeem
+"Special_Offer_No_Gifts_Currently" = "No gifts currently";
+"Redeem_Email_Hints" = "The card will be sent to your Email in 24 hours";
+"Redeem_Email_Hints_PayPal" = "The card will be sent to your Paypal Email in 24 hours";
+"Redeem_Hints" = "Redeem means you are agree with our ";
+"Redeem_ToS" = "ToS";
+"Redeem_Button_Text" = "REDEEM";
+"Redeem_CountryPicker_Title" = "Choose Country";
+"Redeem_CountryPicker_Save" = "Save";
+"Redeem_CountryPicker_Cancel" = "Cancel";
+"Redeem_Email_Input" = "Tap to input your E-mail.";
+"Redeem_Email_Paypal" = "Tap to input your Paypal E-mail.";
+
+"Redeem_Email_Alert_Message" = "The card will be sent to your Email.Please input your own Email.";
+"Redeem_Email_Alert_Message_Paypal" = "The card will be sent to your Paypal Email.Please input your own Paypal Email.";
+"Redeem_Emain_Input_Placeholder" = "Input your E-mail.";
+"Redeem_Emain_Input_Placeholder_Paypal" = "Input your Paypal E-mail.";
+"Redeem_Emain_InputAgain_Placeholder" = "Input again to confirm.";
+"Redeem_Email_Alert_OK" = "OK";
+"Redeem_Email_Alert_Cancel" = "Cancel";
+"Redeem_Email_Alert_Message_Empty" = "Your E-mail is empty,please input again.";
+"Redeem_Eamil_Alert_Message_Format" = "Please verify the format of your E-mail.";
+"Redeem_Email_Alert_Message_Inconsistent" = "The two entries are inconsisent.";
+"Redeem_Email_Alert_Message_Network" = "Check your network or retry.";
+"Redeem_CoolButton_Text" = "Cool";
+
+"Redeem_ReplaceCustomCardToPaypalCard_Title" = "Redeem this card via Paypal";
+"Redeem_ReplaceCustomCardToPaypalCard_Remind" = "We will send money for this card to your Paypal account directly in 24 hours.";
+
+//GameDataController
+"GameDataController_Error_Cannot_Play_Slot" = "Cannot Play Slot At This Time";
+"GameDataController_Error_Cannot_Play_Spin" = "Cannot Play Spin At This Time";
+//ChestController
+"ChestController_Error_Cannot_Open_Free_Chest" = "Cannot Open Free Chest";
+"ChestController_Error_Cannot_Open_Gift_Chest" = "Cannot Open Gift Chest";
+
+// Reward
+"Reward_From_FreeChest" = "Free Chest";
+"Reward_From_DiamondChest" = "Diamond Chest";
+"Reward_From_LuckySpin" = "Lucky Spin";
+"Reward_Diamond_From_LuckySpin_1Param_NSNumber" = "You've got %@ diamonds from Lucky Spin!";
+"Reward_MoreSpin_From_LuckySpin_1Param_NSNumber" = "You've got %@ more chances from Lucky Spin!";
+"Reward_From_QuickHit" = "Fire Finger";
+"Reward_From_Slots" = "Slots Mania";
+"Reward_From_Gift" = "Gift Cashback";
+"Reward_From_Farmer" = "Farmers' Market";
+"Reward_From_HappyFishing"  = "Happy Fishing";
+"Reward_From_FishBattle"    = "Fishing Battle";
+"Reward_From_FlyCar"        = "Fly Car";
+"Reward_From_MahjongScratch"        = "King of Mahjong";
+"Reward_From_DiceScratch"           = "Dice Roller";
+"Reward_From_BasketballScratch"     = "Basketball";
+"Reward_From_GoldRushScratch"       = "Gold Rush";
+"Reward_From_VegasRouletteScratch"  = "Roulette";
+"Reward_From_VegasDiceScratch"      = "Dice Roller";
+"Reward_From_VegasSlotsScratch"     = "Slot Machine";
+"Reward_From_PyramidPharaohScratch"   = "The Pharaoh's Secret";
+"Reward_From_PyramidTreasureScratch"  = "Ancient Eygptian Treasures";
+"Reward_From_PyramidEscapeScratch"    = "Escape From Pyramid";
+
+"Reward_From_GetNothing" = "Oops~ Try it again!";
+"Reward_From_WatchingVideo" = "Watching Video";
+"Reward_From_Invitation" = "Congratulations!\n You've got the Referral Reward!";
+"Reward_From_SurpriseKey" = "Surprise Key";
+"Reward_CuttingLine" = "Want more coins?";
+"Reward_CuttingLine_DoubleReward" = "Double coins offer";
+
+"Reward_Alert_NewGame_Title" = "TRY NEW GAME!!";
+
+"Reward_ConfirmButton_Title_OK" = "OK";
+"Reward_ConfirmButton_Title_Close" = "Close";
+"Reward_ConfirmButton_Title_Cool" = "COOL";
+"Reward_ActionButton_Title_Play" = "Play";
+"Reward_DownloadButton_Title" = "Get it now";
+
+// Local Notification
+"LocalNotifiaction_Title_1"   =   "Your free coins are ready.";
+"LocalNotifiaction_Title_2"   =   "You are missing free coins.";
+"LocalNotifiaction_Title_3"   =   "Coins for free? Yes.";
+
+"LocalNotifiaction_Body_1"   =   "✨✨ Tap to get them!";
+"LocalNotifiaction_Body_2"   =   "👏👏 Tap to get them!";
+"LocalNotifiaction_Body_3"   =   "🎉🎉 Get them now!!!";
+
+
+"Local_Notification_Setting_Disabled" = "Local Notification Setting Disabled. Go setting to enable it";
+
+"Notification_Alert_Title" = "Don’t miss any chest!";
+"Notification_Alert_Enable_ButtonTitle" = "Enable Push";
+"Notification_Alert_DelayDecision_ButtonTitle" = "Not now";
+"Notification_Alert_FakeSystemAlertDelay_Title" = "\"%@\" Would Like to Send You Notifications";
+
+"Notification_Toast_Go_Setting" = "Please Go to Setting App\n    to open notification";
+
+// FAQ Title
+"ToS_Title" = "Term Of Service";
+"FAQ_Title" = "FAQ";
+
+// Toast
+"Toast_Game_CoolDown" = "This Game Is Cooling Down.\n       Please try it later.";
+"Toast_No_Enough_Diamond" = "You need more diamonds to open the chest.";
+
+// Game Alert
+"Game_Alert_Remind_Text_NotEnoughDiamond" = "You need more diamonds to open this chest!";
+"Game_Alert_Remind_Text_NotEnoughCoins" = "You need more coins to play this game!";
+
+"Game_Alert_Remind_Text_CoolDown" = "This Game Is Cooling Down";
+"Game_Alert_Remind_Text_Tasks" = "Your Coins";
+"Game_Alert_Remimd_Text_Redeem" = "Sorry, coins not enough.\nComplete tasks or play games now!";
+"Game_Alert_Remind_Text_RedeemCodeAlreadyUsed" = "Maximum exchange times of Surprise Key have been reached, please exchange it eariler next time.";
+"Game_Alert_Remind_Text_RedeemOverLimit" = "The surprise key has been used!";
+"Game_Alert_Remind_Text_RedeemOverDue" = "The surprise key has expired!";
+"Game_Alert_Remind_Text_RedeemInvalidCode" = "Invalid surprise key!";
+
+// Refresh Header And Footer
+"RefreshHeader_Refresh_Success" = "Refresh Successfully!";
+"RefreshHeader_Refresh_Fail" = "Refresh Failure!";
+"RefreshFooter_LoadMore_Success" = "Data Loaded Succesfully";
+"RefreshFooter_LoadMore_Fail" = "Fail to Load More Data";
+
+"RefreshHeader_Refresh_NoOrders" = "You haven't Redeemed Any Gift Card";
+"RefreshHeader_Refresh_NoBalance" = "No balance record yet.";
+"RefreshHeader_Refresh_NoNew" = "No News";
+"RefreshHeader_Refresh_NoGiftCard" = "No Available Gift Card ";
+"RefreshHeader_Refresh_NoInvitations" = "Your friends will be displayed here if they used your code.";
+
+// Vungle Videos
+"Vungle_Alert_Body_Text" = "If the video isn't completed you won't get your reward! Are you sure you want to close early?";
+"Vungle_Alert_Close_Button_Text" = "Close";
+"Vungle_Alert_Continue_Button_Text" = "Keep Watching";
+"Vungle_Alert_Title_Text" = "Careful";
+"Video_Toast_Not_Ready"  = "The video is not ready.\n   please try it later!";
+
+
+
+// Choose Game
+"ChooseGame_Choose_Text" = "Choose One";
+"ChooseGame_Congraduations_Text" = "Congratulations!";
+"ChooseGame_CoolButton_Text" = "COOL";
+"ChooseGame_CloselButton_Text" = "Close";
+// GameTimes
+"GameTimes_TimeRemainLabel_Text" = "Next in %ldh %ldmin";
+
+// Rate Us
+"RateUs_StandardURL" = "itms-apps://itunes.apple.com/app/id%@";
+
+"RateUs_Title_Text" = "Make this app better";
+"RateUs_ButtonLabel_Text_1Param" = "Rate us 5 stars + %@";
+"RateUs_IssueButton_Text" = "Report issue";
+
+"RateUs_IssueEmail_Title" = "[Feedback for %@ v%@]";
+
+// Extra game times
+"ExtraGameTimes_Title_Text" = "Watch a video to play again?";
+
+"ExtraGameTimes_PlayButton_Title" = "Watch a Video";
+
+// CoinsReminder
+
+// Invitation
+"Invitation_Title" = "Invited %@ Friends\nGot %@ coins from them";
+"Invitation_Bonus_Hint_Text_1Param" = "Get %@ coins for one success invitation";
+"Invitation_Copy_Referral_Text" = "Tap to copy Referral Code";
+"Invitation_History_Text" = "History";
+"Invitation_Message" = "Message";
+"Invitation_Email" = "Email";
+"Invitation_Twitter" = "Twitter";
+"Invitation_Facebook" = "Facebook";
+"Invitation_ReferralCode_Toast" = "Your referral code has been copied on pasteboard.";
+"Invitation_Share_Text" = "#1 Make money Game!Get it from %@";
+"Invitation_Input_Label_Text" = "Input referral code";
+"Invitation_Input_GoButton_Text" = "Go";
+"Invitation_Input_SkipButton_Text" = "Skip this";
+"Invitation_Input_Placeholder_Text" = "Code";
+"Invitation_Input_Code_Alert_Text" = "Please input referral code";
+"Invitation_ReferralCode_Alert_Text" = "Sorry. We find some suspicious invitations. Please contact us to get approved. Before that, you can't get any referral reward any more.";
+"Invitation_Alert_EmailButton_Text" = "Email Us";
+"Invitation_Alert_SkipButton_Text" = "Skip this";
+"Invitation_ReferralCode_Promotion_Email_Title" = "Referral Code Promotion";
+"Invitation_ReferralCode_Promotion_Text" = "Invite 10+ friends? Promote your code for extra rewards!";
+
+"Invitation_Reject_VPNOrJailbreak" = "Invalid device";
+"Invitation_Reject_Promotion" = "Duplicated";
+"Invitation_Reject_SameIp" = "Duplicated";
+
+// Surprise Key
+"SurpriseKey_TitleLabel_Text" = "Surprise Key";
+
+"SurpriseKey_VerifyButton_Title" = "VERIFY";
+
+"SurpriseKey_TextField_Placeholder" = "Tap to input Surprise Key";
+
+"SurpriseKey_RemindLabel_Text" = "Get up to 5000 coins by Surprise Key!We will announce Surprise Keys on our facebook and Instagram page.";
+
+"SurpriseKey_ThirdPlatform_TitleLabel_Text" = "Follow us and find Surprise Keys";
+
+"SurpriseKey_InvalidInputFormatProtion" = "Invalid Surprise Key";
+
+// PhotoLibrary Access
+"PhotoLibrary_Access_Deny_Toast" = "You should open Photo Access from Settings->Privacy->Photo to customize your photos.";
+
+// Check In
+"CheckIn_DailyBunus" = "Daily Bonus!";
+"CheckIn_Rule" = "Play 6 days in a row to get the maximum bonus";
+"CheckIn_Collection_Button" = "Collect!";
+"CheckIn_Go_Button" = "GO!";
+"CheckIn_Open_Button" = "Open!";
+"CheckIn_SpecialOffer" = "Special Offer";
+
+// Happy Fish
+"HappyFish_Cost_Text" = "COST";
+"HappyFish_Cost_Label_Text" = "%@ COINS";
+
+//Fish Battle
+"FishBattle_StakeMe_Text" = "Stake me!";
+"FishBattle_MoreStake_Text" = "More, more!";
+"FishBattle_Start_Button" = "Start";
+"FishBattle_ChooseInitial_Button" = "+";
+
+
+// Game Rules
+"GameRules_Title_Text" = "How to play";
+"GameRules_SelectButton_Text" = "Do not show again";
+"GameRules_CloseButton_Text" = "OK";
+
+// Boom Box
+"BoomBox_ChestOpen_Error" = "Network error %ld. Please try again later.";
